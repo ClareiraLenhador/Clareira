@@ -1,0 +1,6 @@
+site_name: Clareira — Finanças sem Filtro
+site_url: https://clareira.willthing.ia.br
+docs_dir: docs
+site_dir: site
+theme:
+  name: material

@@ -1,0 +1,6 @@
+#
+# /clareira/.gitignore
+#
+
+# macOS
+.DS_Store
